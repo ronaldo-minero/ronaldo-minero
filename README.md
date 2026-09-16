@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
+  
+  # Ronaldo Minéro Júnior
+  
+  *Estudante de Análise e Desenvolvimento de Sistemas*
+  
+  🎓 **SPTech**
+  
+</div>
 
-<!--
-**ronaldo-minero/ronaldo-minero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,sqlite,mongodb,git&theme=dark" alt="Minhas Skills" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=5500&pause=1500&color=00FFFF&center=true&vCenter=true&width=850&lines=What+If+You+Fly%3F+%2D+BUNT.;A+moment%2C+a+love%2C+a+dream%2C+aloud%2C+just+stay+there%2C+%27cause+I%27ll+be+coming+over+%2D+The+Temper+Trap;So+live+a+life+you+will+remember+%2D+Avicii;Things+aren%27t+easy%2C+so+just+you+believe+me+now+%2D+Alok+%26+Zeeba;Can+start+in+next+semester+%2D+Twenty+One+Pilots" alt="Letras de Música" />
+  <br>
+  <sub>*sim, isso é música eletrônica e eu amo (tirando twenty one pilots)* ⚡</sub>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Citação Aleatória" />
+</div>
+
+<br>
+
+<div align="center">
+
+### Status e Atividades
+<br>
+  <!-- Card de Streak original (funcional) -->
+  <img src="https://streak-stats.demolab.com/?user=ronaldo-minero&theme=tokyonight&hide_border=true&background=transparent&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" height="150" />
+</div>
