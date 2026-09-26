@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,sqlite,mongodb,git&theme=dark" alt="Minhas Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,sqlite,mongodb,git&theme=dark" alt="Minhas Skills" />
   </a>
 </div>
 
@@ -23,13 +23,6 @@
   <br>
   <sub>*sim, isso é música eletrônica e eu amo (tirando twenty one pilots)* ⚡</sub>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Citação Aleatória" />
-</div>
-
 <br>
 
 <div align="center">
